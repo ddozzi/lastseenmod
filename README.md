@@ -11,4 +11,4 @@ A simple mod to check when a player was last online.
 
 ## Upcoming Updates 
 
-- Adding ability to do /ls [username] instead of /ls find [username]
+- None! You can give suggestions if you'd like
